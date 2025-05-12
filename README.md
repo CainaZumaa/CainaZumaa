@@ -17,14 +17,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CainaZumaa&show_icons=true&theme=radical" alt="Cainã Zuma's GitHub Stats" />
-</p>
-
----
-
 ## 📫 Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/cainã-zuma-a252a7153/)
 
