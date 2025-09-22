@@ -15,7 +15,11 @@
 - **Tools:** Git, GitHub, pgAdmin
 - **Other:** Cibersecurity, Architecture
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+<div align="center">
+  <a href="https://github.com/CainaZumaa">
+  <img height="180em" src="https://github-readme-stats-test-rouge.vercel.app/api?username=CainaZumaa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-test-rouge.vercel.app/api/top-langs/?username=CainaZumaa&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
 ---
 
