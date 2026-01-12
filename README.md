@@ -13,7 +13,7 @@
 - **Frameworks & Libraries:** React.js, Next.js, Node.js, Knex.js
 - **Databases:** PostgreSQL, SQLServer
 - **Tools:** Git, GitHub, pgAdmin
-- **Other:** Cibersecurity, Architecture
+- **Other:** AppSec, Cibersecurity, Architecture
 
 <div align="center">
   <a href="https://github.com/CainaZumaa">
