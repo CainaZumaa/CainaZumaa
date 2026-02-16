@@ -1,0 +1,71 @@
+# Galaxy Profile README Configuration
+# Generated for: CainaZumaa
+
+username: CainaZumaa
+
+profile:
+  name: "Cainã Zuma"
+  tagline: "Developer / AppSec"
+  company: "CEFET/RJ"
+  location: "Rio de Janeiro, BR"
+  bio: |
+    Systems Information student at CEFET/RJ.
+    Web development, cybersecurity and databases.
+
+social:
+  linkedin: "cainã-zuma-a252a7153"
+
+galaxy_arms:
+  - name: "Frontend"
+    color: "dendrite_violet"
+    items:
+      - "TypeScript"
+      - "React"
+      - "Next.js"
+  - name: "Backend"
+    color: "synapse_cyan"
+    items:
+      - "Python"
+      - "Flask"
+      - "FastAPI"
+      - "SQL Server"
+  - name: "AppSec"
+    color: "axon_amber"
+    items:
+      - "Application Security"
+      - "DevSecOps"
+
+projects:
+  - repo: "CainaZumaa/appsec-portswigger"
+    arm: 2
+    description: "Web application security research and vulnerability analysis write-ups."
+  - repo: "CainaZumaa/controle-users"
+    arm: 1
+    description: "User management API with JWT auth, magic links and layered architecture."
+  - repo: "CainaZumaa/controle-users-front"
+    arm: 0
+    description: "Frontend interface for the user management system."
+
+theme:
+  void: "#080c14"
+  nebula: "#0f1623"
+  star_dust: "#1a2332"
+  synapse_cyan: "#00d4ff"
+  dendrite_violet: "#a78bfa"
+  axon_amber: "#ffb020"
+  text_bright: "#f1f5f9"
+  text_dim: "#94a3b8"
+  text_faint: "#64748b"
+
+stats:
+  metrics:
+    - "commits"
+    - "repos"
+
+languages:
+  exclude:
+    - "HTML"
+    - "CSS"
+    - "Shell"
+    - "Makefile"
+  max_display: 8

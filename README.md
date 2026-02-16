@@ -1,32 +1,42 @@
-<h1 align="center">👋 Hi there! I'm Cainã Zuma</h1>
-
-<p align="center">
-🎓 Systems Information student at CEFET/RJ  
-💻 Web development, cybersecurity, databases
-</p>
-
----
-
-## 🛠️ Technologies & Tools
-
-- **Languages:** JavaScript, TypeScript, Python
-- **Frameworks & Libraries:** React.js, Next.js, Node.js, Knex.js
-- **Databases:** PostgreSQL, SQLServer
-- **Tools:** Git, GitHub, pgAdmin
-- **Other:** AppSec, Cibersecurity, Architecture
-
 <div align="center">
-  <a href="https://github.com/CainaZumaa">
-  <img height="180em" src="https://github-readme-stats-test-rouge.vercel.app/api?username=CainaZumaa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-test-rouge.vercel.app/api/top-langs/?username=CainaZumaa&layout=compact&langs_count=7&theme=radical"/>
+  <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
 </div>
 
----
+<br/>
 
-## 📫 Get in Touch
-- [LinkedIn](https://www.linkedin.com/in/cainã-zuma-a252a7153/)
+<div align="center">
+  <img src="./assets/generated/stats-card.svg" width="850" alt="Mission Telemetry"/>
+</div>
 
-<!---
-CainaZumaa/CainaZumaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br/>
+
+<div align="center">
+  <img src="./assets/generated/tech-stack.svg" width="850" alt="Tech Stack"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="./assets/generated/projects-constellation.svg" width="850" alt="Featured Projects"/>
+</div>
+
+<br/>
+
+<details>
+<summary><strong>More about me</strong></summary>
+
+<br/>
+
+🎓 Systems Information student at CEFET/RJ
+
+💻 Web development, cybersecurity and databases
+
+</details>
+
+<br/>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/cain%C3%A3-zuma-a252a7153/">
+    <img src="https://img.shields.io/badge/-LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=a78bfa" alt="LinkedIn"/>
+  </a>
+</div>
