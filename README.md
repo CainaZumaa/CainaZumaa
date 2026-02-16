@@ -29,7 +29,7 @@
 
 🎓 Systems Information student at CEFET/RJ
 
-💻 Web development, cybersecurity and databases
+💻 Web development, cybersecurity, databases, system design and architecture
 
 </details>
 
